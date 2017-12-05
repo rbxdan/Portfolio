@@ -283,3 +283,12 @@ a {
   .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
     background-color: #1a252f;
     border-color: #1a252f; }
+
+    /*@include figure-caption(lg) {
+      html {
+        font-size: 28px;
+      }
+    }*/
+.figure-caption {
+  font-family: 'Montserrat';
+}
